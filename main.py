@@ -3,4 +3,3 @@ print(4)
 
 print('hello world')
 
-print(35)
